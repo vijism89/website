@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(50, 248, 248);
+  }
+
+  img {
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+  }
+
+  
+
+  
+  
